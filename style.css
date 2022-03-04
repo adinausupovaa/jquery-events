@@ -1,0 +1,16 @@
+.image-car {
+  width: 200px;
+}
+.edit-form {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgb(78, 73, 73);
+  width: 100vw;
+  height: 100vh;
+  z-index: 2;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
